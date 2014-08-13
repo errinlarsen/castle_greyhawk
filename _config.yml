@@ -10,7 +10,7 @@ title:            Castle Greyhawk
 tagline:          'Castle Greyhawk Campaign'
 description:      'A Campaign Notebook for the Castle Greyhawk Adventures'
 url:              http://errinlarsen.github.io/castle_greyhawk
-baseurl:          /castle_greyhawk/
+baseurl:          castle_greyhawk
 
 author:
   name:           'Errin Larsen'
