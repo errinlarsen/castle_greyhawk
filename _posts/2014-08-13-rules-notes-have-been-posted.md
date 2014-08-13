@@ -3,9 +3,11 @@ layout: page
 title: Rules notes have been posted
 ---
 
-{{ site.baseurl }}
-{{ site.url }}
-{% page_url rules %}
+BASEURL: {{ site.baseurl }}
+
+GITHUB.URL: {{ site.github.url }}
+
+URL: {{ site.url }}
 
 Find them in the sidebar, or click [this link]({{ site.url }}/rules).
 
