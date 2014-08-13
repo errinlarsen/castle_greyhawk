@@ -2,7 +2,6 @@
 layout: post
 title: Welcome to Castle Greyhawk
 ---
-# Welcome to Castle Greyhawk!
 The call has gone out for heroic, fearless, and kinda foolish adventurers to
 out-hack, out-slash, and sometimes even out-think hordes of evil-nastiness!.
 
