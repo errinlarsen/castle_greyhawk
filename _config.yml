@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Castle Greyhawk
 tagline:          'Castle Greyhawk Campaign'
 description:      'A Campaign Notebook for the Castle Greyhawk Adventures'
-url:              http://errinlarsen.github.io/castle_greyhawk
+url:              http://errinlarsen.github.io/castle_greyhawk/
 baseurl:          /castle_greyhawk
 
 author:
   name:           'Errin Larsen'
-  url:            https://errinlarsen.github.io/
+  url:            https://errinlarsen.github.io
 
 paginate:         5
 
@@ -23,3 +23,5 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/errinlarsen/castle_greyhawk
+
+exclude: ["vendor"]
