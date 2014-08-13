@@ -182,7 +182,7 @@ Although able to operate freely with the benefits of armor, weapons, and magical
 items available to the classes the character is operating in, any thieving is
 restricted to the armor and weaponry usable by the Thief class.
 
-  see the _Unearthed Arcana_, pg. 22, and its [errata](https://www.acaem.com/library/errata_ua.html) for the effects of armor on Thief functions.
+  see the _Unearthed Arcana_, pg. 22, and its [errata](https://www.acaeum.com/library/errata_ua.html) for the effects of armor on Thief functions.
 
 ### Weapon proficiencies
 The multi-class PC will recieve the "better" of their multiple classes' number of
@@ -194,7 +194,7 @@ The benefit of weapon specialization, described in _Unearthed Arcana_, pg. 18,
 is available to all **single-classed** (but not multi-classed) fighters and
 rangers.
 
-See the _Unearthed Arcana_ [errata](https://www.acaem.com/library/errata_ua.html)
+See the _Unearthed Arcana_ [errata](https://www.acaeum.com/library/errata_ua.html)
 
 ### Experience points
 All earned experience is always divided equally among the classes of the
