@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Greyhawk deities
+title: Deities of Greyhawk
 ---
 
 <span style="color:green">Good</span>                                  | <span style="color:grey">Neutral</span>                                 | <span style="color:red">Evil</span>
