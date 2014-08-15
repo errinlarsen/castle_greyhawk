@@ -1,0 +1,18 @@
+---
+layout: page
+title: An Effective Dungeon Master
+---
+
+In _Dungeon Module B2_, _The Keep on the Borderlands_, E. Gary Gygax offered some advice to the novice Dungeon Master:
+
+> As Dungeon Master, the beginner is faced with a difficult problem. The DM is the most important person in the D&D&reg; game. He or she sets up and controls all situations, makes decisions, and acts as the link between the players and the world he or she has created. Perhaps the most common question asked by a beginning Dungeon Master is, "What do I do to run a game?" It is possible to read through the rules and become slightly lost by all the things that must be prepared or known before DMing a game.
+>
+> Unlike most boardgames, D&D play relies on information, both from the players and the DM. In boardgames, the way the game is played is obvious. First one person moces, and then another. Actions are limited and choices are few. In the game, the action is only limited by the abilities of the character, the imagination of the player, and the decisions of the DM. The play will often go in unexpected directions and the DM will sometimes be required to decide on situations not covered in the rules. The DM is the judge.
+>
+> As a judge, moderator, or referee, the DM must constantly deal with the players. Just as the referee of a sporting event, the DM must be fair. He or she cannot be "out to get the players", nor should he or she be on their side all the time. The DM must be **neutral**. If a party has played well and succeeded, the DM should not punish them by sending more and more monsters at them or thwart their plans; on the other hand, if the players have acted foolishly, they should get their "just rewards". In combat, the DM should play the mosters to the best of the monster's ability. If the creature is stupid, it may be easily tricked or may not always do the smartest thing. If the monster is clever or intelligent, it will fight to its best advantage. The DM must be fair, but the players must play wisely.
+>
+> The DM is also the designer of the situations and must bear in mind the abilities of his or her players. It is the job of the DM to see that the situations and characters balance. If things are too difficult, the players will become discouraged; too easy and they will become bored. Is it possible for a good player to win, yet still be a challenge and a risk in doing so? Is the amount of treasure gained equal to the danger of trying to get it? As DM, much satisfaction comes from watching players overcome a difficult situation. But they should do it on their own!
+>
+> To defeat monsters and overcome problems, the DM must be dispenser of information. Again, he or she must be fair -- telling the party what it can see, but not what it cannot. Questions will be asked by players, either of the DM or of some character the party has encountered, and the DM must decide what to say. Information should never be given away that the characters have not found out -- secret doors may be missed, treasure or magic items over-looked, or the wrong question asked of a townsperson. The players must be allowed to make their own choices. Therefore, it is important that the DM give accurate information, but **the choice of action is the players' decision**.
+>
+> Throughout all this -- making decisions, playing roles, handling monsters -- the DM must remember that he or she is in control. The DM is the judge, and it is his or her game. The DM should listen to the players and wight their arguments fairly when disagreements arise, but the final decision belongs to the DM. The Dungeon Master's word is law! _(Gygax 4)_
