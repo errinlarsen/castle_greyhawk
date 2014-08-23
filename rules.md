@@ -4,6 +4,10 @@ title: Campaign Rules Notes
 ---
 
 ## Miscellaneous
+- [A.D.D.I.C.T - AD&D Intiative and Combat Table](http://www.dragonsfoot.org/fe/#263)
+
+    I will be using this document as a reference during play and for better understanding of the rules.
+
 - Members of the thief class are not restricted to wearing **only** leather armor. However, a thief's chance of performing one of the special functions of the class may be lessened if he or she is otherwise attired.
 
     See _Unearthed Arcana_, pg. 22 for further details.  
