@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Castle Greyhawk
 ---
 
-# Castle Greyhawk
-## The back of the module
+### The back of the module
 Deep beneath the keep of Castle Greyhawk, a really nasty device is creating all
 these gross, mutated, and unpleasant monsters that are running wild throughout
 the castle and the 12-level dungeon beneath the castle. The call has gone out
