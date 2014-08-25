@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Castle Greyhawk
 tagline:          'Castle Greyhawk Campaign'
-description:      'A Campaign Notebook'
+description:      'An AD&D Campaign'
 url:              http://errinlarsen.github.io/castle_greyhawk
 baseurl:          /castle_greyhawk
 
@@ -29,7 +29,7 @@ exclude:
   - vendor
 
 # Custom vars
-version:          2.0.1
+version:          2.1.0
 
 github:
   repo:           https://github.com/errinlarsen/castle_greyhawk
