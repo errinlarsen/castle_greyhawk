@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Castle Greyhawk
 tagline:          'Castle Greyhawk Campaign'
 description:      'A Campaign Notebook'
-url:              http://errinlarsen.github.io/castle_greyhawk/
+url:              http://errinlarsen.github.io/castle_greyhawk
 baseurl:          /castle_greyhawk
 
 author:
@@ -29,7 +29,7 @@ exclude:
   - vendor
 
 # Custom vars
-version:          2.0.0
+version:          2.0.1
 
 github:
   repo:           https://github.com/errinlarsen/castle_greyhawk

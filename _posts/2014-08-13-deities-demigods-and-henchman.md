@@ -4,7 +4,7 @@ title: Deities, Demigods, and Henchman, oh my!
 ---
 
 # Deities and Demigods
-I have added a [Greyhawk deities]({{ site.baseurl }}/deities) in the sidebar.
+I have added a [Greyhawk deities]({{ site.baseurl }}/deities/) in the sidebar.
 
 These deities are all that are known to exist in the World of Greyhawk (At
 least, for now). In an effort to simplify things, and as a continuation of my
@@ -27,7 +27,7 @@ his players.
 Dragon Magazine issue #67 changed all that. Beginning in that issue, and
 continuing through issue #71, Gary wrote a column called "Deities & Demigods of
 Greyhawk". In those articles, he laid out the Pantheon as I've recorded it in
-the [Greyhawk deities]({{ site.baseurl }}/deities) reference page.
+the [Greyhawk deities]({{ site.baseurl }}/deities/) reference page.
 
 These 19 Gods and Goddesses were all that existed then, so that's what we're
 starting with now!
