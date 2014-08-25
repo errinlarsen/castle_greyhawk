@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Tips to the Players
+layout: subpage
+title: Tips for the Players
 ---
 
 In _Dungeon Module B2_, _The Keep on the Borderlands_, E. Gary Gygax shared some advice for beginning players:

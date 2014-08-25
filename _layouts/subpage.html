@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="page">
+  <nav style="margin-bottom: 1rem;">
+    {% for node in site.pages %}
+      {% if node.title != null and node.layout == "subpage" %}
+        <ul style="list-style-type: none; margin: 0; padding: 0;">
+          <li>
+            {% if page.url == node.url %}<strong>{% endif %}
+            <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            {% if page.url == node.url %}</strong>{% endif %}
+          </li>
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </nav>
+
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+  <nav style="margin-top: 1rem;">
+    {% for node in site.pages %}
+      {% if node.title != null and node.layout == "subpage" %}
+        <ul style="list-style-type: none; margin: 0; padding: 0;">
+          <li>
+            {% if page.url == node.url %}<strong>{% endif %}
+            <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            {% if page.url == node.url %}</strong>{% endif %}
+          </li>
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </nav>
+
+</div>

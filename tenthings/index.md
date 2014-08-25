@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: How the Game is Run
 ---
 

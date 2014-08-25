@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: Campaign Rules Notes
 ---
 
