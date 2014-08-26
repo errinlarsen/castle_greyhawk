@@ -7,7 +7,7 @@ You may notice some changes to the structure and layout of the site. I'm still t
 
 I also made some additions to the [Campaign Rules Notes]({{ site.baseurl }}/rules/).
 
-Finally, I have decided the in-game starting date will be **1 Richfest, 575**. If you are
+Finally, I have decided the in-game starting date will be **4 Richfest, 575**. If you are
 interested, here is a link to [a good Greyhawk calendar](https://nightshade.obsidianportal.com/wiki_pages/oerth-calendar). If you are not interested, a quick summary of Oerth's calendar follows:
 
 <!-- more -->
