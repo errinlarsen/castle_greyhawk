@@ -13,6 +13,8 @@ resolved.
 Because of these time/attention constraints, I believe we need a clear and
 useful way to [asynchronously][] resolve these concerns as they appear.
   [asynchronously]: http://dictionary.reference.com/browse/asynchronously
+  
+<!-- more -->
 
 For that reason, I tested the GitHub Issues tracker, with the intent that it get
 used for this purpose. I used the tracker itself to document the process, and
