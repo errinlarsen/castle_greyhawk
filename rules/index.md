@@ -90,7 +90,7 @@ This, in effect, makes a Grey elf Fighter/Magic-user 180 (150 + 5d6) years old, 
 
     There are several exceptions:  
   
-    - Magic-user's can NOT cast spells while wearing armor! _Unless_, that is, the Magic-user in question is a multi-classed Demi-human or a Human with two or more classes; see the _Elves_ racial entry in the _Player's Handbook_, pg. 17)
+    - Magic-user's can NOT cast spells while wearing armor! (_Unless_, that is, the Magic-user in question is a multi-classed Demi-human or a Human with two or more classes; see the _Elves_ racial entry in the _Player's Handbook_, pg. 17)
     - Thieves are penalized (see above) according to the _Unearthed Arcana_, pg. 22
     - Cleric's using bladed weapons will (possibly) be punished by their respective Deities (as determined by the DM).
 
