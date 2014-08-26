@@ -88,10 +88,10 @@ This, in effect, makes a Grey elf Fighter/Magic-user 180 (150 + 5d6) years old, 
 
 - The "Class performance classification" system detailed in the _Dungeon Master's Guide_, pg. 86, will be followed when XP rewards are given out. As such, weapon and armor restrictions are not (usually) a hard limit, but instead directly influence the amount of time and money level advancement requires.  
 
-  There are several exceptions:  
+    There are several exceptions:  
   
-  - Magic-user's can NOT cast spells while wearing armor! _Unless_ the Magic-user in question is a multi-classed Demi-human, or a Humans with two or more classes; see the _Elves_ racial entry in the _Player's Handbook_, pg. 17)
-  - Thieves are penalized (see above) according to the _Unearthed Arcana_, pg. 22
-  - Cleric's using bladed weapons will (possibly) be punished by their respective Deities (as determined by the DM).
+    - Magic-user's can NOT cast spells while wearing armor! _Unless_ the Magic-user in question is a multi-classed Demi-human, or a Humans with two or more classes; see the _Elves_ racial entry in the _Player's Handbook_, pg. 17)
+    - Thieves are penalized (see above) according to the _Unearthed Arcana_, pg. 22
+    - Cleric's using bladed weapons will (possibly) be punished by their respective Deities (as determined by the DM).
 
 - I intend to utilize the modifications suggested in the _Dungeon Master's Guide_, pg. 82, in the section titled _"Progression On The Combat Tables"_. In effect, the first '20' in any _Combat Matrix_ can be obtained with any roll of the d20 and applied bonuses. The 2nd, and subsequent, '20's in any _Combat Matrix_ represents a _NATURAL_ '20' (the die must be showing a '20'), regardless of any to-hit bonuses.
