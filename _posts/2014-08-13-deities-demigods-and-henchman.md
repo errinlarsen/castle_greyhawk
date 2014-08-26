@@ -12,6 +12,8 @@ desire to recreate the feel and play of 1st edition AD&D circa the early 1980s,
 I've decided to acknowledge only those deities that had been detailed and
 introduced by Gary Gygax at that time.
 
+<!-- more -->
+
 Specifically, in late 1982, Gary began detailing the Greyhawk Pantheon with
 articles published to Dragon Magazine. Before that, he rather famously referred
 to any "Higher Beings" as simply, "The Gods". Clerics received their spells and
