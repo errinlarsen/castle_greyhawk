@@ -3,9 +3,9 @@ layout: subpage
 title: Campaign Rules Notes
 ---
 
-<span style="margin-left: 10%; font-size: 65%; background-color: #C3FDB8;">As this document is updated, I will mark the most recent changes with this highlight color.</span>  
-<span style="margin-left: 10%; font-size: 65%; background-color: #C3FDB8;">The order of the sections and sub-sections of this document have been re-arranged to more closely follow the order of rules as presented in the _Player's Handbook_ and the _Dungeon Master's Guide_.</span>  
-<span style="margin-left: 10%; font-size: 65%; background-color: #C3FDB8;">The _Miscellaneous_ section has been moved to the end.</span>  
+<span style="font-size: 65%; background-color: #C3FDB8;">As this document is updated, I will mark the most recent changes with this highlight color.</span>
+- <span style="font-size: 65%; background-color: #C3FDB8;">The order of the sections and sub-sections of this document have been re-arranged to more closely follow the order of rules as presented in the _Player's Handbook_ and the _Dungeon Master's Guide_.</span>  
+- <span style="font-size: 65%; background-color: #C3FDB8;">The _Miscellaneous_ section has been moved to the end.</span>  
 
 ## Character Creation
 ### Player Character Races
