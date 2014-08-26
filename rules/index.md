@@ -5,6 +5,8 @@ title: Campaign Rules Notes
 
 <span style="margin-left: 10%; font-size: 65%; background-color: #C3FDB8;">As this document is updated, I will mark the most recent changes with this highlight color.</span>  
 
+- <span style="margin-left: 10%; font-size: 65%; background-color: #C3FDB8;">I re-arranged the order of the sections and sub-sections of this document to more closely follow the order of rules as presented in the _Player's Handbook_ and the _Dungeon Master's Guide_, and placed the _Miscellaneous_ section at the end.</span>  
+
 ## Character Creation
 ### Player Character Races
 - All _Player's Handbook_ races are available, as described in that source.
@@ -30,29 +32,17 @@ title: Campaign Rules Notes
     - <span style="background-color: #C3FDB8;">Half-elven PCs **optionally** speak one additional language at start for each point of Intelligence above 16; ie. a Half-elven PC with an 18 Int. optionally speaks up to an additional 2 languages.</span>
     - <span style="background-color: #C3FDB8;">Halfling PCs **optionally** speak one additional language at start for each point of Intelligence above 16; ie. a Halfling PC with an 18 Int. optionally speaks up to an additional 2 languages.</span>
 
-### Starting Hit Points
-As per _Unearthed Arcana_, pg. 74: "If the initial **ROLL** of the die (or dice, for rangers and monks) is lower than the number given below, then the character is granted this number of hit points to begin his or her adventuring career" (_emphasis, mine_).
-
-I'm interpreting that sentence to mean the following numbers are minimum **_rolls_** for a starting character. You should still adjust these minimums according to the character's Constitution-based _Hit Point Adjustment_.
-
-    Cleric     5    Magic-user     3
-      Druid    5      Illusionist  3
-    Fighter    6    Thief          4
-      Paladin  6      Assassin     4
-      Ranger   9    Monk           5
-
-
-## Multi-classing
-### Armor/weapon restrictions
+### Multi-classing
+#### Armor/weapon restrictions
 Although able to operate freely with the benefits of armor, weapons, and magical items available to the classes the character is operating in, any thieving is restricted to the armor and weaponry usable by the Thief class. (see the _Unearthed Arcana_, pg. 22, and its [errata](https://www.acaeum.com/library/errata_ua.html), for the effects of armor on Thief functions.)
 
-### Weapon proficiencies
+#### Weapon proficiencies
 The multi-class PC will recieve the "better" of their multiple classes' number of initial weapon proficiencies, and will continue to gain proficiencies as per that class's rate.
 
-### Experience points
+#### Experience points
 All earned experience is always divided equally among the classes of the character, even though the character is no longer able to gain levels in one or more of the classes.
 
-### Hit points
+#### Hit points
 Hit points are determined with the following formula:
 
     (HD for leveling class + Con bonus)/Number of classes
@@ -66,6 +56,17 @@ To determine _Starting Hit Points_, roll **each** class's HD <sup>1</sup>, add t
 For Example: A first level Fighter/Thief, with a Constitution of 17, rolls a d10 as her Fighter Hit Die, and a d6 for her Thief Hit Die. Her actual die rolls are: Fighter[d10]: 7; Thief[d6]: 2. First, she would apply the _Starting Hit Points_ minimums, arriving at: Fighter: 7; Thief: 4. Then she will add her Con bonus to both, respecting the _Constitution Table_'s maximum Con bonus to _Hit Point Adjustment_ (a Fighter gets a +3 with a Constitution of 17, but a Thief is limited to a +2). Therefore, we arrive at the following: Fighter[7+3]: 10; Thief [4+2]: 6. Finally, average the results by the number of classes (2 in this example): (Fighter[10] + Thief[6] = 16) / 2 = 8.
 
 **Note:** when multi-classed characters are no longer able to progress in any given class, they no longer gain the hit dice for that class, **<span style="background-color: #C3FDB8;">but they still count that class in the divisor when gaining hit points for their other classes!</span>**
+
+### Starting Hit Points
+As per _Unearthed Arcana_, pg. 74: "If the initial **ROLL** of the die (or dice, for rangers and monks) is lower than the number given below, then the character is granted this number of hit points to begin his or her adventuring career" (_emphasis, mine_).
+
+I'm interpreting that sentence to mean the following numbers are minimum **_rolls_** for a starting character. You should still adjust these minimums according to the character's Constitution-based _Hit Point Adjustment_.
+
+    Cleric     5    Magic-user     3
+      Druid    5      Illusionist  3
+    Fighter    6    Thief          4
+      Paladin  6      Assassin     4
+      Ranger   9    Monk           5
 
 ### Age
 Though it is easily overlooked in the _Dungeon Master's Guide_, pg. 12, "For multi-classed characters use the column which develops the highest age and use the greatest possible addition to the base age; ie. do NOT generate the age variable by random die roll, but assign the maximum."
