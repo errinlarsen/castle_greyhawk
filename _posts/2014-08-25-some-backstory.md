@@ -28,6 +28,5 @@ Plans were made. Maps were consulted. Sages were hired and challenged. Rumors we
 
 All around the circle heads were nodding. Cliques were formed. Expeditions were planned, and at last begun. Maakyor and Moonglum, with but a glance, confirmed they would be travelling together. The news of wonders and riches being found buried deep beneath _Castle Greyhawk_, no-less than the ancient home of Zagyg himself, cried out for exploration and discovery; and so close to home, too!
 
-The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.
-
-<span style="font-size: small>*translation: The Order of Seven; "We will be eight!"</span>
+The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.  
+<sub>*translation: The Order of Seven; "We will be eight!"</sub>
