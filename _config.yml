@@ -13,6 +13,7 @@ tagline:          'Castle Greyhawk Campaign'
 description:      'An AD&D Campaign'
 url:              http://errinlarsen.github.io/castle_greyhawk
 baseurl:          /castle_greyhawk
+excerpt_separator: <!-- more -->
 
 author:
   name:           'Errin Larsen'
