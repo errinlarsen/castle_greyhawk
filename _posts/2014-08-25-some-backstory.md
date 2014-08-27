@@ -32,4 +32,4 @@ All around the circle heads were nodding. Cliques were formed. Expeditions were 
 
 The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.
 
-<span style="font-size: 50%;">*translation: <strong>The Order of Seven</strong>; <em>"We will be eight!"</em></span>
+<span style="font-size: 65%;">*translation: <strong>The Order of Seven</strong>; <em>"We will be eight!"</em></span>
