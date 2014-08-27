@@ -7,7 +7,9 @@ title: Some Backstory
 Long ago, in the early days of our heroes' youth (well, our _human_ heroes' youth, anyway!), many a late summer afternoon was spent relating their favorite tales of adventure. Armed with their trusty long swords (stout, oaken branches), magical staves (the same), and mounted on their faithful steeds (the versatility of a stout, oaken branch really is amazing!), these young hopeful heroes saved the world from the evil hordes of chaos almost every day. Always these fantasy adventures were fueled by the latest news and rumours of those legendary figures referred to collectively as _The Circle of Eight_. The young friends, our heroes-to-be, wanted nothing more than to experience for themselves the storied companionship and mythical exploits of the renowned _Circle of Eight_.
 
 Ah, but the innocence of youth fades. The school-age fantasies make way to more mature, more _adult_, responsibilities. This age-old story is well known to most, and all succumb to the pressures of adulthood
+
 <!-- more -->
+
 ...all but our intrepid heroes, of course!
 
 These fast friends grew older, but their enthusium for death-defying adventures never dwindled. If anything, they only yearned for the exciting life of a true hero even more. Long ago, during one of those whimsical battles with oaken swords _Klak! Klak!_ing in the woods, they had formalized their small band of aspiring swashbucklers -- they would forever be called, "The Circle of Five" (nobody wanted to play with those weirdos and their fake swords; they had to make do with just 5 in their circle). "The Pentagon of Pioneers!" was their battle-cry a few weeks later. "Stand guard, evil-doers, you face the wrath of the Fearsome Five Friends," was heard echoing out of the woods later that year. A little while later, after little Timmy moved away with his parents, they quickly became, "The Circle of Four". Many geometrical shapes were undertaken and just as easily discarded. The friendship which developed, however, lasts to this day.
@@ -28,5 +30,6 @@ Plans were made. Maps were consulted. Sages were hired and challenged. Rumors we
 
 All around the circle heads were nodding. Cliques were formed. Expeditions were planned, and at last begun. Maakyor and Moonglum, with but a glance, confirmed they would be travelling together. The news of wonders and riches being found buried deep beneath _Castle Greyhawk_, no-less than the ancient home of Zagyg himself, cried out for exploration and discovery; and so close to home, too!
 
-The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.  
-<sub>*translation: The Order of Seven; "We will be eight!"</sub>
+The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.
+
+<span style="font-size: 65%;">*translation: <strong>The Order of Seven</strong>; <em>"We will be eight!"</em></span>
