@@ -15,14 +15,14 @@ Magic items are of particular concern, due to the nature of how experience point
 The simplest solutions are frequently the fairest and also the easiest to manage.
 
 1. Equal _shares_ (share and share alike!) are awarded based on the number of characters in the party.
-  - Henchman count as &frac34; a character (eg. in the current party, 3 shares would be calulated, 1 for Maakyor, 1 for Moonglum, and the 3rd being split evenly for Balin and Tadhm)
+  - Henchman count as &frac12; a character (eg. in the current party, 3 shares would be calulated, 1 for Maakyor, 1 for Moonglum, and the 3rd being split evenly for Balin and Tadhm)
   - Other NPC hirelings, mercenaries, etc would have access to treasure-shares as was negotiated when they were hired.
   - Slain, or otherwise incapacitated, characters are eligible for shares in treasure gained up-to and including the encounter which incapacitated them.
 2. Any items, magical or otherwise, will be distributed by consent of the party.
   - In the event that an agreement regarding the equitable split of items can't be reached (in my experience, this happens less frequently than you might think):
-    1. All items (non-currency; ie. gems, magic items, art, captured slaves(!), furnishings, etc) will be grouped into a number of lots equaling the number of _PCs_ (NPCs would be excluded).
-      - Lots should be as equal as possible, according to the listed gp value of the items.
-    2. PCs then dice-off to determine order and, in that order, choose lots.
+      1. All items (non-currency; ie. gems, magic items, art, captured slaves(!), furnishings, etc) will be grouped into a number of lots equaling the number of _PCs_ (NPCs would be excluded).
+        - Lots should be as equal as possible, according to the listed gp value of the items.
+      2. PCs then dice-off to determine order and, in that order, choose lots.
   - It is the responsibility of the individual PCs to distribute magic items to their Henchman as they see fit.
 
 Once treasure is split, the new owners can do with their treasure as they like, including magic items. If a particular piece of gear, awarded to PC A, is desired by PC B, that PC can offer to purchase it, trade for it, borrow it, whatever. The new owner of the item can even sell it to a merchant out of spite in retribution for some previous slight; or toss it off a cliff, if she so desires! Once the division of treasure is complete, "all sales are final", as they say.
