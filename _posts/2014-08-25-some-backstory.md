@@ -26,9 +26,9 @@ Oh but you knew it was coming, didn't you, dear reader? The inevitable tragedy. 
 
 Plans were made. Maps were consulted. Sages were hired and challenged. Rumors were gathered and investigated. Answers were ... scarce. The eight, now seven, could not agree as to a proper course of action. Which of many promising leads to follow was debated for days; then weeks. Finally, a daring proposal was, er, ~ahem~, proposed.
 
-"We should split up," spoke the studious Maakyor. "No less than two to a group. Each proposal can therefore be investigated more efficiently. If any of us believes that a true solution is at hand, they others can be summoned. In this way we will arrive at both our objectives simultaneously. Each group is sure to undertake an adventure the likes of which bards will sing for centuries, and as such, a remedy for our fallen associate is virtually assured!"
+"We should split up," spoke the studious Maalcyor. "No less than two to a group. Each proposal can therefore be investigated more efficiently. If any of us believes that a true solution is at hand, they others can be summoned. In this way we will arrive at both our objectives simultaneously. Each group is sure to undertake an adventure the likes of which bards will sing for centuries, and as such, a remedy for our fallen associate is virtually assured!"
 
-All around the circle heads were nodding. Cliques were formed. Expeditions were planned, and at last begun. Maakyor and Moonglum, with but a glance, confirmed they would be travelling together. The news of wonders and riches being found buried deep beneath _Castle Greyhawk_, no-less than the ancient home of Zagyg himself, cried out for exploration and discovery; and so close to home, too!
+All around the circle heads were nodding. Cliques were formed. Expeditions were planned, and at last begun. Maalcyor and Moonglum, with but a glance, confirmed they would be travelling together. The news of wonders and riches being found buried deep beneath _Castle Greyhawk_, no-less than the ancient home of Zagyg himself, cried out for exploration and discovery; and so close to home, too!
 
 The final meeting of the eight, as they embark on their quest, consists of one final accord: until their lost ally is found, they will henceforth be known as **The Ordo Septenarius**; their rallying cry and their motto: _"Quae erit octo!"_*.
 

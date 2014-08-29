@@ -15,7 +15,7 @@ Magic items are of particular concern, due to the nature of how experience point
 The simplest solutions are frequently the fairest and also the easiest to manage.
 
 1. Equal _shares_ (share and share alike!) are awarded based on the number of characters in the party.
-  - Henchman count as &frac12; a character (eg. in the current party, 3 shares would be calulated, 1 for Maakyor, 1 for Moonglum, and the 3rd being split evenly for Balin and Tadhm)
+  - Henchman count as &frac12; a character (eg. in the current party, 3 shares would be calulated, 1 for Maalcyor, 1 for Moonglum, and the 3rd being split evenly for Balin and Tadhm)
   - Other NPC hirelings, mercenaries, etc would have access to treasure-shares as was negotiated when they were hired.
   - Slain, or otherwise incapacitated, characters are eligible for shares in treasure gained up-to and including the encounter which incapacitated them.
 2. Any items, magical or otherwise, will be distributed by consent of the party.
