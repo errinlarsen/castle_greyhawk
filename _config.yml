@@ -11,13 +11,13 @@ permalink:        pretty
 title:            Castle Greyhawk
 tagline:          'Castle Greyhawk Campaign'
 description:      'An AD&D Campaign'
-url:              http://errinlarsen.github.io/castle_greyhawk
+url:              http://irkinvader.github.io/castle_greyhawk
 baseurl:          /castle_greyhawk
 excerpt_separator: <!-- more -->
 
 author:
-  name:           'Errin Larsen'
-  url:            https://errinlarsen.github.io
+  name:           'Kenin Vader'
+  url:            https://irkinvader.github.io
 
 paginate:         5
 
@@ -33,6 +33,6 @@ exclude:
 version:          2.1.2
 
 github:
-  repo:           https://github.com/errinlarsen/castle_greyhawk
+  repo:           https://github.com/irkinvader/castle_greyhawk
 
-disqus: errinlarsen
+disqus: tbd
