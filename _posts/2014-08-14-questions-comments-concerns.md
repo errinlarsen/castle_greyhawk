@@ -19,7 +19,7 @@ useful way to [asynchronously][] resolve these concerns as they appear.
 For that reason, I tested the GitHub Issues tracker, with the intent that it get
 used for this purpose. I used the tracker itself to document the process, and
 show examples along the way. [Read that issue by clicking this link][1].
-  [1]: https://github.com/errinlarsen/castle_greyhawk/issues/2
+  [1]: https://github.com/irkinvader/castle_greyhawk/issues/2
 
 The short version goes like this: Click the new "New Question/Issue" link in the
 sidebar, fill out the form you are taken to, wait for an email notifying you
